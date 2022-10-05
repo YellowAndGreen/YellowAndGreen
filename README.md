@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YellowAndGreen&show_icons=true&theme=radical&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YellowAndGreen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight)
 
 #### Languages and Tools
 ![python](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
