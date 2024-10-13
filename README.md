@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I’m currently learning photography, website design and deeplearning algorithms. Welcome to my [website🌐](www.yellowandgreen.xyz:3000), here you can find my portfolio☺️!
+I’m currently learning photography, website design and deeplearning algorithms. Welcome to my [website🌐](http://yellowandgreen.xyz:3000), here you can find my portfolio☺️!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YellowAndGreen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=fff&bg_color=1F4037,536976,92FFC0,0396FF&theme=Midnight)
 
